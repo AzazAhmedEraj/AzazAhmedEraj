@@ -1,34 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,100:8A2BE2&text=AZAZ%20AHMED%20ERAJ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:0EA5E9&text=AZAZ%20AHMED%20ERAJ&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
 
-[![](https://readme-typing-svg.herokuapp.com?font=Orbitron\&size=30\&duration=2500\&pause=1000\&color=00F5FF\&center=true\&vCenter=true\&width=900\&lines=FULL+STACK+DEVELOPER;AI+ENGINEERING+ENTHUSIAST;BUILDING+SCALABLE+SYSTEMS;TURNING+IDEAS+INTO+INTELLIGENCE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk\&weight=600\&size=24\&pause=2500\&color=38BDF8\&center=true\&vCenter=true\&width=900\&lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Scalable+Software+Systems)](https://git.io/typing-svg)
+
+<br>
+
+<a href="https://github.com/AzazAhmedEraj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/azaz-ahmed-eraj">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/users/azaz-ahmed-eraj">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+
+<a href="mailto:azaz.a.eraj@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# > SYSTEM_PROFILE.exe
+## About
 
-```yaml
-Name: Azaz Ahmed Eraj
-Role: Full Stack Developer
-Location: Bangladesh
-Education: BSc CSE @ Independent University Bangladesh
-Current_Status: Full Stack Developer Intern @ Green Compare Ltd
+I am a Full Stack Developer with experience building production-grade web applications, backend services, and scalable software solutions. Currently working at **Green Compare Ltd.**, I contribute to the development of SaaS platforms, RESTful APIs, and customer-facing applications used in real-world production environments.
 
-Mission:
-  - Build scalable software
-  - Engineer intelligent systems
-  - Explore AI & Machine Learning
-  - Design impactful digital products
-```
+My primary interests lie in **Software Engineering, System Design, Artificial Intelligence, and Machine Learning**, with a focus on building reliable systems that solve meaningful problems. I enjoy working across the entire development lifecycle—from architecture and backend development to user-facing applications—while continuously exploring modern technologies and engineering best practices.
 
 ---
 
-<div align="center">
+## Technology Stack
 
-## ⚡ TECH MATRIX
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,php,react,nextjs,nodejs,go,postgres,mysql,docker,linux,git,firebase&perline=8"/>
 
@@ -36,107 +44,43 @@ Mission:
 
 ---
 
-# > CORE_SPECIALIZATIONS
+## Experience & Focus
 
-```text
-█▓▒░ FULL STACK DEVELOPMENT      ░▒▓██████████████████ 100%
+<table>
+<tr>
+<td align="center" width="33%">
 
-█▓▒░ BACKEND ENGINEERING         ░▒▓█████████████████░ 95%
+### 💼 Software Engineering
 
-█▓▒░ SYSTEM DESIGN               ░▒▓███████████████░░░ 85%
+Production-grade web applications, APIs, backend systems, and scalable SaaS platforms.
 
-█▓▒░ MACHINE LEARNING            ░▒▓██████████████░░░░ 80%
+</td>
 
-█▓▒░ IOT SYSTEMS                 ░▒▓█████████████░░░░░ 75%
+<td align="center" width="33%">
 
-█▓▒░ DEVOPS & AUTOMATION         ░▒▓███████████░░░░░░░ 65%
-```
+### 🤖 AI & Machine Learning
 
----
+Applied machine learning, explainable AI, intelligent systems, and data-driven solutions.
 
-# > FEATURED_PROJECTS.db
+</td>
 
-### 🔬 Physics-Guided ML for GSM Prediction
+<td align="center" width="33%">
 
-```diff
-+ Physics-aware Machine Learning
-+ Explainable AI (XAI)
-+ Textile Engineering Analytics
-+ High Prediction Accuracy
-```
+### ⚙️ System Design
 
-### 🌱 AI Smart Aquaponics System
+Scalable architectures, performance optimization, and maintainable software systems.
 
-```diff
-+ ESP32 + React Dashboard
-+ Real-Time Monitoring
-+ Environmental Prediction
-+ Automated Decision Support
-```
-
-### 💊 MedDonate
-
-```diff
-+ Full Stack Web Application
-+ RBAC Authentication
-+ Database Normalization
-+ Social Impact Platform
-```
-
-### 🤖 Automated Weeding Robot
-
-```diff
-+ AI-Assisted Agriculture
-+ GPS Navigation
-+ Autonomous Movement
-+ Precision Weed Detection
-```
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-# 📊 GITHUB TELEMETRY
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzazAhmedEraj&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzazAhmedEraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzazAhmedEraj&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzazAhmedEraj&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=00F5FF&hide_border=true"/>
-
-</div>
-
----
-
-# > CERTIFICATIONS.unlock()
-
-```python
-certifications = [
-    "IBM Enterprise Design Thinking Practitioner",
-    "Data Scientist Associate (DataCamp)",
-    "Cisco CCNA - Introduction to Networks",
-    "Cisco IoT Fundamentals",
-    "ICT Olympiad Bangladesh Semi-Finalist (2025, 2026)"
-]
-```
-
----
-
-<div align="center">
-
-## 🌐 NEURAL NETWORK CONNECTIONS
-
-<a href="https://linkedin.com/in/azaz-ahmed-eraj">
-    <img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="mailto:azaz.a.eraj@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AzazAhmedEraj">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzazAhmedEraj&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -144,19 +88,8 @@ certifications = [
 
 <div align="center">
 
-```text
-> STATUS: ONLINE
+### Building intelligent software that creates measurable impact.
 
-> CURRENTLY BUILDING:
-  Scalable Web Applications
-  AI-Powered Systems
-  Production-Ready Software
-
-> PHILOSOPHY:
-  "Engineering intelligence into impactful solutions."
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,100:8A2BE2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E293B,100:0EA5E9"/>
 
 </div>
-
