@@ -28,9 +28,26 @@
 
 ## About
 
-I am a Full Stack Developer with experience building production-grade web applications, backend services, and scalable software solutions. Currently working at **Green Compare Ltd.**, I contribute to the development of SaaS platforms, RESTful APIs, and customer-facing applications used in real-world production environments.
+```yaml
+name: Azaz Ahmed Eraj
+role: Full Stack Developer
 
-My primary interests lie in **Software Engineering, System Design, Artificial Intelligence, and Machine Learning**, with a focus on building reliable systems that solve meaningful problems. I enjoy working across the entire development lifecycle—from architecture and backend development to user-facing applications—while continuously exploring modern technologies and engineering best practices.
+current_position:
+  company: Green Compare Ltd.
+  title: Full Stack Developer Intern
+
+specialization:
+  - Software Engineering
+  - Backend Systems
+  - Artificial Intelligence
+  - Machine Learning
+  - System Design
+
+focus:
+  Building scalable applications, intelligent systems,
+  and production-grade software solutions that create
+  measurable real-world impact.
+```
 
 ---
 
@@ -44,43 +61,35 @@ My primary interests lie in **Software Engineering, System Design, Artificial In
 
 ---
 
-## Experience & Focus
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💼 Software Engineering
-
-Production-grade web applications, APIs, backend systems, and scalable SaaS platforms.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 AI & Machine Learning
-
-Applied machine learning, explainable AI, intelligent systems, and data-driven solutions.
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ System Design
-
-Scalable architectures, performance optimization, and maintainable software systems.
-
-</td>
-</tr>
-</table>
-
----
+## Areas of Interest
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzazAhmedEraj&show_icons=true&theme=transparent&hide_border=true"/>
+|      Software Engineering     | AI & Machine Learning |       System Design      |
+| :---------------------------: | :-------------------: | :----------------------: |
+| Production-grade applications |  Intelligent systems  |  Scalable architectures  |
+|      Backend development      |     Explainable AI    | Performance optimization |
+|        REST APIs & SaaS       |  Applied ML solutions |   Maintainable software  |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzazAhmedEraj&layout=compact&theme=transparent&hide_border=true"/>
+</div>
+
+---
+
+## GitHub Insights
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzazAhmedEraj&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzazAhmedEraj&layout=compact&theme=transparent&hide_border=true&count_private=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzazAhmedEraj&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&hide_border=true"/>
 
 </div>
 
