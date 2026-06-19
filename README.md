@@ -34,7 +34,7 @@ role: Full Stack Developer
 
 current_position:
   company: Green Compare Ltd.
-  title: Full Stack Developer Intern
+  title: Full Stack Developer 
 
 specialization:
   - Software Engineering
